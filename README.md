@@ -2,13 +2,13 @@
 🌎 Sorocaba-SP
 👤 17 anos
 
-🏫 Sou um estudante do 3° ano do ensino médio.
-👨‍🎓 Cursando desenvolvimento de sistema.
-💻 Aprendendo no curso:
-📁 FrontEnd
-📁 Python
-📁 CSS
-📁 HTML
+- 🏫 Sou um estudante do 3° ano do ensino médio.
+- 👨‍🎓 Cursando desenvolvimento de sistema.
+- 💻 Aprendendo no curso:
+- 📁 FrontEnd
+- 📁 Python
+- 📁 CSS
+- 📁 HTML
 
 ##⚙️ Projetos/atividades do curso:
 📁 Desenvolvendo sites em html e css: 
