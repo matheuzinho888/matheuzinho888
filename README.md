@@ -3,13 +3,13 @@
 - 👨‍🎓 Cursando desenvolvimento de sistema. 
 - 🌎 Sorocaba-SP
 - 👤 17 anos
-## 💻 Aprendendo no curso:
+## 💻 Aprendendo no curso
 - 📁 FrontEnd
 - 📁 Python
 - 📁 CSS
 - 📁 HTML
 
-## ⚙️ Projetos/atividades do curso:
+## ⚙️ Projetos/atividades do curso
 - 📁 Desenvolvendo sites em html e css: 
 - 📁 Atividades de python:
 - 📁 Atividades de portugol:
