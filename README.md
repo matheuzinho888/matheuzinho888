@@ -17,4 +17,4 @@
 ## 📫 Contatos
 - ✉️ Email: matheusprutrevigno292@gmail.com
 - 📞 Telefone: +55 (15)99856-0050 
-Sempre aberto a colaborações e novos desafios! 🚀
+- Sempre aberto a colaborações e novos desafios! 🚀
