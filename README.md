@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá, eu sou Matheus Prudente Trevigno
+🌎 Sorocaba-SP
+👤 17 anos
 
-<!--
-**matheuzinho888/matheuzinho888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 Sou um estudante do 3° ano do ensino médio.
+👨‍🎓 Cursando desenvolvimento de sistema.
+💻 Aprendendo no curso:
+📁 FrontEnd
+📁 Python
+📁 CSS
+📁 HTML
 
-Here are some ideas to get you started:
+##⚙️ Projetos/atividades do curso:
+📁 Desenvolvendo sites em html e css: 
+📁 Atividades de python:
+📁 Atividades de portugol:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contatos
+✉️ Email: matheusprutrevigno292@gmail.com
+📞 Telefone: +55 (15)99856-0050
+Sempre aberto a colaborações e novos desafios! 🚀
