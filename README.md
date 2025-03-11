@@ -1,8 +1,8 @@
 ## Olá, eu sou Matheus Prudente Trevigno
-🌎 Sorocaba-SP
-👤 17 anos
-🏫 Sou um estudante do 3° ano do ensino médio. 
-👨‍🎓 Cursando desenvolvimento de sistema. 
+- 🌎 Sorocaba-SP
+- 👤 17 anos
+- 🏫 Sou um estudante do 3° ano do ensino médio. 
+- 👨‍🎓 Cursando desenvolvimento de sistema. 
 ## 💻 Aprendendo no curso:
 - 📁 FrontEnd
 - 📁 Python
