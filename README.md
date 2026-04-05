@@ -1,9 +1,10 @@
 ## Olá, eu sou Matheus Prudente Trevigno
-- 🏫 Sou um estudante do 3° ano do ensino médio. 
-- 👨‍🎓 Cursando desenvolvimento de sistema. 
+- 🏫 ensino médio completo. 
+- 👨‍🎓 Cursado em desenvolvimento de sistema. 
 - 🌎 Sorocaba-SP
-- 👤 17 anos
-## 💻 Aprendendo no curso
+- 👤 19 anos
+- 
+## 💻 Bom conhecimento
 - 📁 FrontEnd
 - 📁 Python
 - 📁 CSS
@@ -16,5 +17,5 @@
 
 ## 📫 Contatos
 - ✉️ Email: matheusprutrevigno292@gmail.com
-- 📞 Telefone: +55 (15)99856-0050 
+- 📞 Telefone: +55 15 99692-5846
 - Sempre aberto a colaborações e novos desafios! 🚀
